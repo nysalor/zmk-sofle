@@ -54,8 +54,8 @@ layers:
   - {t: /, s: '?'}
   - {t: \, s: '|'}
   - $$mdi:volume-off$$
-  - {t: LANG2, h: '$$mdi:apple-keyboard-option$$'}
-  - $$mdi:apple-keyboard-command$$
+  - {t: LANG2, h: '$$mdi:apple-keyboard-command$$'}
+  - $$mdi:apple-keyboard-option$$
   - layer1
   - {t: '[', s: '{'}
   - $$mdi:keyboard-space$$
@@ -64,7 +64,7 @@ layers:
   - {t: ']', s: '}'}
   - '2'
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: LANG1, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: LANG1, h: RIGHT GUI}
   layer1:
   - {t: '`', s: '~'}
   - F1
