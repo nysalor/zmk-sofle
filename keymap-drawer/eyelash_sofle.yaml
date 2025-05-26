@@ -57,11 +57,11 @@ layers:
   - {t: LANG2, h: '$$mdi:apple-keyboard-option$$'}
   - $$mdi:apple-keyboard-command$$
   - layer1
-  - {t: '[', s: '{'}
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '[', s: '{'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: ']', s: '}'}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: LANG1, h: '$$mdi:apple-keyboard-option$$'}
